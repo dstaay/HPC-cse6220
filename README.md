@@ -2,7 +2,7 @@ Presentation of Udacity Final Project for UD820 (same lecturers as GA Tech CS764
 
 Please see Project Description link for areas of implementation below
 
-Included a quick test of 300 learning trials, do duplicate run:
+Included a quick test of 300 learning trials, to run:
 
 >> py pacman.py -p PacmanQAgent -x 300 -n 310 -l smallGrid
 
